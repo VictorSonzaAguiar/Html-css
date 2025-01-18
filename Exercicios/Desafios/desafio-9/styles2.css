@@ -1,0 +1,34 @@
+/* Container dos vídeos */
+.video-container {
+    display: flex;                /* Ativa o Flexbox */
+    flex-wrap: wrap;              /* Permite que os itens quebrem para a próxima linha */
+    justify-content: center;      /* Centraliza os vídeos horizontalmente */
+    gap: 20px;                    /* Espaço entre os vídeos */
+    margin: 0 auto;               /* Centraliza o container dentro da página */
+  }
+  
+  /* Estilo dos vídeos */
+  .video-container video {
+    width: 150px;                 /* Ajuste de tamanho dos vídeos */
+    height: auto;                 /* Mantém a proporção */
+    border-radius: 10px;          /* Borda arredondada (opcional) */
+  }
+/* Altera a cor do texto do link */
+a {
+    text-align: center;
+    color: #FF5733; /* Escolha a cor que você preferir */
+    text-decoration: none; /* Remove o sublinhado do link (opcional) */
+    text-align: center;
+  }
+  
+  /* Altera a cor do link quando ele for passado o mouse sobre */
+  a:hover {
+    color: #333333; /* Cor para quando o link é hover */
+  }
+  p {
+    text-align: center;   /* Centraliza o texto dentro do parágrafo */
+  }
+  .center-image {
+    display: block;           /* Remove o espaço abaixo da imagem */
+    margin: 0 auto;           /* Garante que a imagem fique no centro da linha */
+  }

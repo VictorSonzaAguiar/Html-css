@@ -1,0 +1,21 @@
+/* Container das imagens */
+.image-container {
+    display: grid;
+    justify-content: center;
+    gap: 5px;
+    grid-template-columns: repeat(3, 0fr);
+}
+
+  
+  /* Estilo das imagens */
+  .image-container img {
+    width: 150px;                /* Ajuste de tamanho das imagens */
+    
+  }
+
+  .p.image-containerAAAZZZ{
+    color: white;
+  }
+  
+  
+  

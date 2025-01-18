@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+    background-color: #592D3D;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{ 
+    color: #3C592E;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: #4f7a3a;
+}
+main {
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px rgb(30, 80, 47);
+}
+
+main .foto-perfil {
+     width: 150px; /* Exemplo */
+    height: auto;
+     border-radius: 50%; /* Torna a imagem redonda */
+ 
+}
