@@ -3,7 +3,7 @@
 
 
 
-<a href="https://victorsonzaaguiar.github.io/Html-css/exercicios/Ex001">Exercicio 1.</a>
+<a href="https://victorsonzaaguiar.github.io/Html-css/Exercicios/Ex001>Exercicio 1.</a>
 <a href="https://victorsonzaaguiar.github.io/Html-css/exercicios/Ex002">Exercicio 2.</a>
 <a href="https://victorsonzaaguiar.github.io/Html-css/exercicios/Ex003">Exercicio 3.</a>
 <a href="https://victorsonzaaguiar.github.io/Html-css/exercicios/Ex004">Exercicio 4.</a>
