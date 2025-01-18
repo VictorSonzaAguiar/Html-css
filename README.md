@@ -3,4 +3,4 @@
 
 
 
-<a href="https://victorsonzaaguiar.github.io/Html-css/exercicios/Ex001/index.html">Execute aqui.</a>
+<a href="https://victorsonzaaguiar.github.io/Html-css/exercicios/Ex001">Execute aqui.</a>
